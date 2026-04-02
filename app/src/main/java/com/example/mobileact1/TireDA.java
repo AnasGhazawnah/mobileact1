@@ -7,7 +7,7 @@ public class TireDA {
 
     public List<Tire> getTires() {
         return Arrays.asList(
-                new Tire("Michelin",    "Pilot Sport 4",    "225/45R17", "Sport"),
+                new Tire("Michelin",    "Pilot Sport 3",    "225/45R17", "Sport"),
                 new Tire("Bridgestone", "Turanza T005",     "205/55R16", "Touring"),
                 new Tire("Goodyear",    "Eagle F1",         "235/40R18", "Sport"),
                 new Tire("Continental", "PremiumContact 6", "215/50R17", "Touring"),
